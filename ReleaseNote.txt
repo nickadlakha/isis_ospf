@@ -1,0 +1,15 @@
+Build:
+
+Debug : Run 'make debug' to build in Debug Mode
+
+Release : Run 'make' to build in Release Mode
+
+Execute : 
+
+/* For IS-IS */
+
+sudo ./isis_ospf isis
+
+/* For OSPF */
+ 
+sudo ./isis_ospf ospf
